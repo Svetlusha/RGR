@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: PDFCreator-1.0.jar itextpdf-5.5.13.3.jar
+Main-Class: su.uunit.Main
+Created-By: Maven Integration for Eclipse
+
